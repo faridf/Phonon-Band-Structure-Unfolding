@@ -93,8 +93,7 @@ The script generates:
 - Weights visualized through color intensity (darker = higher weight)
 
 ## Example Output
-
-[Include a sample band structure plot here]
+![phonon_bands_unfolded](https://github.com/user-attachments/assets/9ce8c3fc-d9bd-470a-8d7f-f4a741fd81a1)
 
 ## Customization
 
@@ -110,19 +109,13 @@ You can customize the plot appearance by modifying the `plot_band_weight` functi
 If you use this script in your research, please cite:
 1. P. B. Allen et al., Phys. Rev. B 87, 085322 (2013)
 2. Phonopy: https://phonopy.github.io/phonopy/
-3. This repository [Include your repository URL]
+3. This repository
 
-## License
-
-[Include your chosen license]
 
 ## Contributing
 
 Feel free to submit issues, fork the repository, and create pull requests for any improvements.
 
-## Authors
-
-[Your Name]
 
 ## Acknowledgments
 
